@@ -3,7 +3,7 @@ from requests.auth import HTTPBasicAuth
 import json
 
 ENDPOINT="https://gateway-wdc.watsonplatform.net/tone-analyzer/api"
-API_KEY="TiOOagJCNlypZNNRn6tMTm1UUR6cCtgVso4tkD8Fw-JB"
+API_KEY="" #Enter your API key here
 
 
 def getTones(text:dict, sentence=False): # Dict in format '{"text": "YOUR TEXT"}'
