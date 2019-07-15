@@ -1,7 +1,8 @@
-# SnackOVERFLOW Hack
 <img src = "https://raw.githubusercontent.com/harsh2204/Clyent/master/image.png" />
 
 ---
+This is the repository of a hackathon project made during IBM's NA Internhack 2019. This is a chat app which utilizes IBM Watson's tone analyzer and sentiment analysis API to give insights into a customer support agent's messages and conversations. 
+
 ### Requirements:
 1. Python 3
 
